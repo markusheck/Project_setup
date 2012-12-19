@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Class-Path: antlr-2.7.7.jar aopalliance-1.0.jar asm-3.1.jar aspectjrt-
+ 1.6.8.jar aspectjweaver-1.6.8.jar avalon-framework-4.1.3.jar avro-1.5
+ .1.jar c3p0-0.9.1.2.jar cglib-2.2.jar cglib-nodep-2.2.jar commons-bea
+ nutils-1.8.3.jar commons-codec-1.4.jar commons-collections-3.2.1.jar 
+ commons-io-2.0.1.jar commons-lang-2.5.jar commons-logging-1.1.jar der
+ byclient-10.8.2.2.jar dom4j-1.6.1.jar dozer-5.3.1.jar el-api-2.2.jar 
+ el-impl-2.2.jar gson-1.7.1.jar guava-11.0.1.jar hibernate-c3p0-4.1.0.
+ Final.jar hibernate-commons-annotations-4.0.1.Final.jar hibernate-cor
+ e-4.1.0.Final.jar hibernate-entitymanager-4.1.0.Final.jar hibernate-j
+ pa-2.0-api-1.0.0.Final.jar hibernate-search-4.1.0.Final.jar hibernate
+ -search-analyzers-4.1.0.Final.jar hibernate-search-engine-4.1.0.Final
+ .jar hibernate-search-orm-4.1.0.Final.jar hibernate-validator-4.1.0.F
+ inal.jar jackson-core-asl-1.7.3.jar jackson-mapper-asl-1.7.3.jar java
+ ssist-3.15.0-GA.jar jboss-logging-3.1.0.CR2.jar jboss-transaction-api
+ _1.1_spec-1.0.0.Final.jar jericho-html-3.1.jar jersey-client-1.9-ea01
+ .jar jersey-core-1.9-ea01.jar jersey-server-1.9-ea01.jar jersey-sprin
+ g-1.9-ea01.jar joda-time-2.0.jar jqwicket-0.7-SNAPSHOT.jar jqwicket-d
+ ep-0.7-SNAPSHOT.jar jta-1.1.jar log4j-1.2.14.jar logkit-1.0.1.jar luc
+ ene-analyzers-3.5.0.jar lucene-core-3.5.0.jar lucene-grouping-3.5.0.j
+ ar lucene-highlighter-3.5.0.jar lucene-memory-3.5.0.jar lucene-misc-3
+ .5.0.jar lucene-smartcn-3.5.0.jar lucene-spatial-3.5.0.jar lucene-spe
+ llchecker-3.5.0.jar lucene-stempel-3.5.0.jar mysql-connector-java-5.1
+ .13.jar paranamer-2.3.jar com.cometsoftware.pft-core.jar com.cometsof
+ tware.pft-db.jar slf4j-api-1.6.1.jar slf4j-log4j12-1.6.1.jar snappy-j
+ ava-1.0.1-rc3.jar solr-analysis-extras-3.5.0.jar solr-commons-csv-3.5
+ .0.jar solr-core-3.5.0.jar solr-solrj-3.5.0.jar spring-aop-3.0.5.RELE
+ ASE.jar spring-asm-3.0.5.RELEASE.jar spring-aspects-3.0.5.RELEASE.jar
+  spring-beans-3.0.5.RELEASE.jar spring-context-3.0.5.RELEASE.jar spri
+ ng-context-support-3.0.5.RELEASE.jar spring-core-3.0.5.RELEASE.jar sp
+ ring-expression-3.0.5.RELEASE.jar spring-jdbc-3.0.5.RELEASE.jar sprin
+ g-orm-3.0.5.RELEASE.jar spring-security-config-3.0.5.RELEASE.jar spri
+ ng-security-core-3.0.5.RELEASE.jar spring-security-web-3.0.5.RELEASE.
+ jar spring-test-3.0.5.RELEASE.jar spring-tx-3.0.5.RELEASE.jar spring-
+ web-3.0.5.RELEASE.jar spring-webmvc-3.0.5.RELEASE.jar stax-api-1.0.1.
+ jar validation-api-1.0.0.GA.jar visural-common-0.5.0.jar visural-wick
+ et-w15-0.7.0.jar wicket-auth-roles-1.5.6.jar wicket-core-1.5.6.jar wi
+ cket-datetime-1.5.6.jar wicket-extensions-1.5.6.jar wicket-ioc-1.5.6.
+ jar wicket-menu-wicket1.5-0.0.5-SNAPSHOT.jar wicket-request-1.5.6.jar
+  wicket-spring-1.5.6.jar wicket-spring-annot-1.3.7.jar wicket-util-1.
+ 5.6.jar xmlbeans-2.4.0.jar
+

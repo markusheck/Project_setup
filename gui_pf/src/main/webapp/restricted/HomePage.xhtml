@@ -1,0 +1,20 @@
+<html xmlns="http://www.w3c.org/1999/xhtml"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:p="http://primefaces.org/ui">
+  <h:head>
+  </h:head>
+  
+  <h:body>
+    <p:accordionPanel>
+      <p:tab title="First Tab Title">
+        <h:inputText value="#{homePageBean.accordionText1}"/>
+		</p:tab>
+      <p:tab title="Second Tab Title">
+        <h:outputText value="#{homePageBean.accordionText2}"/>
+      </p:tab>
+    </p:accordionPanel>
+    
+    
+  </h:body>      
+</html>
